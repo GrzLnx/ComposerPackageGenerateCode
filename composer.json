@@ -1,0 +1,21 @@
+{
+    "name": "grzlnxdevelopment/generatecode",
+    "description": "A package to generate a string code containing integers with a given length.",
+    "type": "libary",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Grzlnxdevelopment\\Generatecode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GrzLnxDevelopment",
+            "email": "info@grzlnxdevelopment.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    }
+}
